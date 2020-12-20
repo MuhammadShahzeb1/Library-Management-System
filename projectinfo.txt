@@ -1,1 +1,3 @@
 Gruop Members :  Muhammad Shahzeb. , Abdul Rahman Sajid.
+Project Information: The title of the project is "Library Management System".
+in this project we are creating library management system using java and mysql language.
